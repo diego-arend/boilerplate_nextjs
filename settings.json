@@ -1,0 +1,6 @@
+{
+  "repo": "TypeScript",
+  "dry": false,
+  // This condition will always return 'false' since the types 'boolean' and 'number' have no overlap.
+  "debug": false
+}

@@ -1,0 +1,15 @@
+{
+    "window.zoomLevel": 0,
+    "editor": {
+        "fontFamily": "Consolas, 'Courier New', monospace",
+        "fontSize": 12,
+        "lineHeight": 20,
+        "tabSize": 4,
+        "wordWrap": "on"
+    },
+    "terminal.integrated.fontSize": 12,
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
+}
